@@ -3,3 +3,5 @@
 # hello-world
 
 Esta branch es un clon del anterior, pero se ha realizado el commit y push desde IntellIJ
+En esta branch tambien se encuentra la prueba del correcto funcionamiento e
+instalacion de Java 17 y Maven
