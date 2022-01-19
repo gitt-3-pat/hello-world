@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
 	    System.out.println( "Modificacion Practica 0. Comprobar Funcionamiento"); //Desde bloc de notas
-        System.out.println( "Modificacion realizada desde IntellIj"); //Desde IntellIJ
+        System.out.println( "Modificacion realizada desde IntellIJ"); //Desde IntellIJ
     }
 }
