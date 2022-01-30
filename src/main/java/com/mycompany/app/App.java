@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "I'm testing git!" );
+        System.out.println( "This line should appear in branch 1" );
     }
 }
